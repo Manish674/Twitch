@@ -1,5 +1,5 @@
 {
-  "stream": [
+  "streams": [
     {
       "title": "My stream",
       "description": "first stream of my app",
@@ -15,6 +15,12 @@
       "description": "creating a foolish hello world application",
       "userId": "114439167420336498483",
       "id": 3
+    },
+    {
+      "title": "some random stream...",
+      "description": "talking about some random things",
+      "userId": "114439167420336498483",
+      "id": 4
     }
   ]
 }
