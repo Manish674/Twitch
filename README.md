@@ -11,4 +11,4 @@ Fully CRUD app you can create, read, update, delete.
 
 ## How to get id
 1) Click on any random stream which will take you to localhost:3000/streams/**id**
-2) Take the id and paste it to Strema key
+2) Take the id and paste it to stream key
